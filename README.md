@@ -21,6 +21,8 @@ Key Insights:
 - Revenue is geographically concentrated in TX, NY, CA, FL, and NJ
 
 SQL Load: [Credit_Card_report_query.sql](Credit_Card_report_query.sql)
+
 PowerBi: [Credit_Card_report.pbix](Credit_Card_report.pbix)
+
 Pdfs: [Credit_Card_customer_report.pdf](Credit_Card_customer_report.pdf)
       [Credit_Card_transaction_report.pdf](Credit_Card_transaction_report.pdf)
